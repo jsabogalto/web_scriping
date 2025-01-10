@@ -1,1 +1,1 @@
-# web_scriping
+# web_scraping
